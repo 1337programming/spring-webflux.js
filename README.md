@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" width="400px" />
-
-# @hapi/hapi
+# Spring Webflux.js - It's almost identical to hapi.js but with a different name
 
 #### The Simple, Secure Framework Developers Trust
 
